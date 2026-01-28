@@ -44,38 +44,48 @@ Complete Spring Boot guide from basic to advance
 - [JPQL and Native Queries](https://www.codingshuttle.com/spring-boot-handbook/jpql-and-native-queries/)
 - [Paging and Sorting in Spring Data JPA](https://www.codingshuttle.com/spring-boot-handbook/paging-and-sorting-in-spring-data-jpa/)
 - [Optimistic and Pessimistic Locking](https://www.codingshuttle.com/spring-boot-handbook/optimistic-and-pessimistic-locking/)
-- - [Tranctions](https://www.codingshuttle.com/spring-boot-handbook/transactions/)
-
-
-
+- [Tranctions](https://www.codingshuttle.com/spring-boot-handbook/transactions/)
 
 ## Production Ready Features
 
-- Logging
-- Actuator
-- Swagger
-- RestTemplate / WebClient
+- [Setup a Spring Boot application with MVC and JPA](https://www.codingshuttle.com/spring-boot-handbook/spring-boot-production-ready-features/)
+- [Spring Boot Dev Tools](https://www.codingshuttle.com/spring-boot-handbook/spring-boot-dev-tools/)
+- [Auditing and Advanced Auditing with Hibernate Envers](https://www.codingshuttle.com/spring-boot-handbook/auditing-and-advance-auditing-with-hibernate-evers/)
+- [RestClient](https://www.codingshuttle.com/spring-boot-handbook/rest-client/)
+- [Logging in Spring Boot](https://www.codingshuttle.com/spring-boot-handbook/logging-in-spring-boot-application/)
+- [Spring Boot Actuator](https://www.codingshuttle.com/spring-boot-handbook/spring-boot-actuator/)
+- [Swagger API Documentation](https://www.codingshuttle.com/spring-boot-handbook/swagger-api-documentation/)
 
----
 
 ## Spring Security Basics
 
-- Authentication
-- Authorization
-- CSRF
-- XSS
-- SQL Injection
+- [Spring Security Basic Introduction](https://www.codingshuttle.com/spring-boot-handbook/spring-security-basic-introduction/)
+- [Cross-Site Request Forgery (CSRF)](https://www.codingshuttle.com/spring-boot-handbook/cross-site-request-forgery-csrf/)
+- [Cross-Site Scripting (https://www.codingshuttle.com/spring-boot-handbook/cross-site-scripting-xss/)
+- [SQL Injection](https://www.codingshuttle.com/spring-boot-handbook/sql-injection/)
+- [Internal Working of Spring Security Basic](https://www.codingshuttle.com/spring-boot-handbook/internal-working-of-spring-security-basic/)
+- [Internal Working of Spring Security Advance](https://www.codingshuttle.com/spring-boot-handbook/internal-working-of-spring-security-advance/)
+- [Configuring SecurityFilterChain](https://www.codingshuttle.com/spring-boot-handbook/configuring-security-filter-chain/)
+- [Understanding JWT](https://www.codingshuttle.com/spring-boot-handbook/understanding-jwt/)
+- [JWT Creation and Verification](https://www.codingshuttle.com/spring-boot-handbook/jwt-creation-and-verification/)
+- [Signup and Login using JWT](https://www.codingshuttle.com/spring-boot-handbook/signup-and-login-using-jwt/)
+- [Authenticating Requests using JWT – Part 1](https://www.codingshuttle.com/spring-boot-handbook/authenticating-requests-using-jwt-part-1/)
+- [Authenticating Requests using JWT – Part 2](https://www.codingshuttle.com/spring-boot-handbook/authenticating-requests-using-jwt-part-2/)
+- [Spring Security Exception Handling](https://www.codingshuttle.com/spring-boot-handbook/spring-security-exception-handling/)
 
----
 
 ## Spring Security Advance
 
-- JWT
-- OAuth2
-- Role Based Authorization
-- Method Security
+- [Spring Security Advance Introduction](https://www.codingshuttle.com/spring-boot-handbook/spring-security-advance-introduction/)
+- [JWT – Refresh Token and Access Token](https://www.codingshuttle.com/spring-boot-handbook/jwt-refresh-token-and-access-token/)
+- [Using Two Tokens instead of One](https://www.codingshuttle.com/spring-boot-handbook/using-two-tokens-instead-of-one/)
+- [OAuth2 Client Authentication – Part 1](https://www.codingshuttle.com/spring-boot-handbook/o-auth2-client-authentication/)
+- [OAuth2 Client Authentication – Part 2](https://www.codingshuttle.com/spring-boot-handbook/o-auth2-client-authentication-part-2/)
+- [User Sessions Management with JWT](https://www.codingshuttle.com/spring-boot-handbook/user-sessions-management-with-jwt/)
+- [Role Based Authorization](https://www.codingshuttle.com/spring-boot-handbook/role-based-authorization/)
+- [Granular Authorization with Authority](https://www.codingshuttle.com/spring-boot-handbook/granular-authorization-with-authority/)
+- [Security Methods Annotations](https://www.codingshuttle.com/spring-boot-handbook/security-methods-annotations/)
 
----
 
 ## Spring Boot Testing
 
