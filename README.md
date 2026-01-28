@@ -25,25 +25,28 @@ Complete Spring Boot guide from basic to advance
 
 ## Spring MVC
 
-- https://codingshuttle.com/spring-boot-handbook/spring-mvc-explained-architecture-request-flow-diagram/
-- https://codingshuttle.com/spring-boot-handbook/controller-components/
-- https://codingshuttle.com/spring-boot-handbook/restful-api-development/
-- https://codingshuttle.com/spring-boot-handbook/data-binding-and-validation/
-- https://codingshuttle.com/spring-boot-handbook/exception-handling/
-- https://codingshuttle.com/spring-boot-handbook/interceptors/
+- [Spring MVC Explain](https://www.codingshuttle.com/spring-boot-handbook/spring-mvc-architecture/)
+- [Controller Components](https://www.codingshuttle.com/spring-boot-handbook/controller-components/)
+- [RESTful API Development](https://www.codingshuttle.com/spring-boot-handbook/restful-api-development/)
+- [Data Binding and Validation](https://www.codingshuttle.com/spring-boot-handbook/data-binding-and-validation/)
+- [Exception Handling](https://www.codingshuttle.com/spring-boot-handbook/exception-handling/)
+- [Interceptors](https://www.codingshuttle.com/spring-boot-handbook/interceptors/)
 
 
 ## Spring Data JPA
 
-- https://codingshuttle.com/spring-boot-handbook/spring-data-jpa-introduction/
-- https://codingshuttle.com/spring-boot-handbook/jpa-repository-interface/
-- https://codingshuttle.com/spring-boot-handbook/entity-mapping/
-- https://codingshuttle.com/spring-boot-handbook/fetching-strategies/
-- https://codingshuttle.com/spring-boot-handbook/repositories-and-query-methods-in-jpa/
-- https://codingshuttle.com/spring-boot-handbook/setting-up-mysql-db-with-spring-data-jpa/
-- https://codingshuttle.com/spring-boot-handbook/jpql-and-native-queries/
-- https://codingshuttle.com/spring-boot-handbook/paging-and-sorting-in-spring-data-jpa/
-- https://codingshuttle.com/spring-boot-handbook/optimistic-and-pessimistic-locking/
+- [Spring Data JPA Introduction](https://www.codingshuttle.com/spring-boot-handbook/spring-data-jpa-introduction/)
+- [JPA Repository Interface](https://www.codingshuttle.com/spring-boot-handbook/jpa-repository-interface/)
+- [Entity Mapping](https://www.codingshuttle.com/spring-boot-handbook/entity-mapping/)
+- [Fetching Strategies](https://www.codingshuttle.com/spring-boot-handbook/fetching-strategies/)
+- [Repositories and Query Methods in JPA](https://www.codingshuttle.com/spring-boot-handbook/repositories-and-query-methods/)
+- [Setting up MySQL DB with Spring Data JPA](https://www.codingshuttle.com/spring-boot-handbook/setting-up-mysql-db-with-spring-data-jpa/)
+- [JPQL and Native Queries](https://www.codingshuttle.com/spring-boot-handbook/jpql-and-native-queries/)
+- [Paging and Sorting in Spring Data JPA](https://www.codingshuttle.com/spring-boot-handbook/paging-and-sorting-in-spring-data-jpa/)
+- [Optimistic and Pessimistic Locking](https://www.codingshuttle.com/spring-boot-handbook/optimistic-and-pessimistic-locking/)
+- - [Tranctions](https://www.codingshuttle.com/spring-boot-handbook/transactions/)
+
+
 
 
 ## Production Ready Features
