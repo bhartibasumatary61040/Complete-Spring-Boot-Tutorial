@@ -9,7 +9,7 @@ Complete Spring Boot guide from basic to advance
 | [Production Ready Features](#production-ready-features) | [Spring Security Basics](#spring-security-basics) | [Spring Security Advance](#spring-security-advance) |
 | [Spring Boot Testing](#spring-boot-testing) | [CI/CD](#spring-boot-deployment-with-cicd) | [Spring Boot AOP](#spring-boot-aop) |
 | [Caching & Transactions](#spring-boot-caching-and-concurrent-transaction-management) | [Basic Microservices](#basic-microservice-architecture-concepts) | [Advanced Microservices](#advanced-microservices) |
-| [Spring Boot Kafka](#spring-boot-kafka) | [Task Scheduling](#spring-boot-task-scheduling) | |
+| [Spring Boot Kafka](#spring-boot-kafka) | [Spring Boot Task Scheduling](#spring-boot-task-scheduling) | |
 
 ## Introduction To Spring Boot
 - [Spring Boot for Beginners](https://www.codingshuttle.com/spring-boot-handbook/spring-boot-tutorial-a-comprehensive-guide-for-beginners/)
@@ -152,16 +152,18 @@ Complete Spring Boot guide from basic to advance
 
 ## Spring Boot Kafka
 
-- Kafka Basics
-- Producers
-- Consumers
-- Schema Registry
+- [Introduction to Apache Kafka](https://codingshuttle.com/spring-boot-handbook/introduction-to-apache-kafka/)
+- [Kafka Architecture](https://codingshuttle.com/spring-boot-handbook/kafka-architecture/)
+- [Installing Kafka and Kafka Visualization Tool](https://codingshuttle.com/spring-boot-handbook/installing-kafka-and-kafka-visualization-tool/)
+- [Configuring Kafka with Spring Boot](https://codingshuttle.com/spring-boot-handbook/configuring-kafka-with-spring-boot/)
+- [Advanced Kafka Configuration with Spring Boot](https://codingshuttle.com/spring-boot-handbook/advanced-kafka-configuration-with-spring-boot/)
+- [Kafka Schema Registry with Confluent](https://codingshuttle.com/spring-boot-handbook/kafka-schema-registry-with-confluent/)
 
----
 
 ## Spring Boot Task Scheduling
 
-- @Scheduled
-- Cron Jobs
-- Executor Framework
+- [Multithreading: Java Executor Framework](https://codingshuttle.com/spring-boot-handbook/multithreading-java-executor-framework/)
+- [Task Scheduling in Spring Boot](https://codingshuttle.com/spring-boot-handbook/task-scheduling-in-spring-boot/)
+- [Asynchronous Task Scheduling in Spring Boot](https://codingshuttle.com/spring-boot-handbook/asynchronous-task-scheduling-in-spring-boot/)
+- [Tomcat Server Threading Model](https://codingshuttle.com/spring-boot-handbook/tomcat-server-threading-model/)
 
