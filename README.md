@@ -90,7 +90,7 @@ Complete Spring Boot guide from basic to advance
 ## Spring Boot Testing
 
 - [Introduction to Testing in Spring Boot](https://codingshuttle.com/spring-boot-handbook/introduction-to-testing-in-spring-boot/)
-- [Understanding JUnit and AssertJ](https://codingshuttle.com/spring-boot-handbook/understanding-junit-and-assertj/)
+- [Understanding JUnit and AssertJ](https://www.codingshuttle.com/spring-boot-handbook/understanding-j-unit-and-assert-j/)
 - [Unit Testing vs Integration Testing](https://codingshuttle.com/spring-boot-handbook/unit-testing-vs-integration-testing/)
 - [Unit Testing the Persistence Layer](https://codingshuttle.com/spring-boot-handbook/unit-testing-the-persistence-layer/)
 - [Setting Up TestContainer](https://codingshuttle.com/spring-boot-handbook/setting-up-testcontainer/)
@@ -104,8 +104,8 @@ Complete Spring Boot guide from basic to advance
 
 - [Introduction and Setup Production Database with RDS in AWS](https://codingshuttle.com/spring-boot-handbook/introduction-and-setup-production-database-with-rds-in-aws/)
 - [Spring Profiles](https://codingshuttle.com/spring-boot-handbook/spring-profiles/)
-- [Deploy Spring Boot Application on Elastic Beanstalk Service](https://codingshuttle.com/spring-boot-handbook/deploy-spring-boot-application-on-elastic-beanstalk-service/)
-- [Setup CI/CD with AWS CodePipeline](https://codingshuttle.com/spring-boot-handbook/setup-ci-cd-with-aws-codepipeline/)
+- [Deploy Spring Boot Application on Elastic Beanstalk Service](https://www.codingshuttle.com/spring-boot-handbook/deploy-spring-boot-application-on-elastic-bean-stalk-service/)
+- [Setup CI/CD with AWS CodePipeline](https://www.codingshuttle.com/spring-boot-handbook/setup-ci-cd-with-aws-code-pipeline/)
 - [Database Migration in Production using Flyway](https://codingshuttle.com/spring-boot-handbook/database-migration-in-production-using-flyway/)
 
 
