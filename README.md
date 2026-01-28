@@ -12,32 +12,16 @@ Complete Spring Boot guide from basic to advance
 | [Spring Boot Kafka](#spring-boot-kafka) | [Task Scheduling](#spring-boot-task-scheduling) | |
 
 ## Introduction To Spring Boot
-
-- [Spring Boot Tutorial for Beginners: Step-by-Step Guide](https://codingshuttle.com/spring-boot-handbook/spring-boot-tutorial-a-comprehensive-guide-for-beginners/)
-
-- [Introduction To Spring Boot](https://codingshuttle.com/spring-boot-handbook/introduction-to-spring-boot/)
-
-- [Challenges of Spring Framework, the need of Spring Boot](https://codingshuttle.com/spring-boot-handbook/challenges-of-spring-framework-the-need-of-spring-boot/)
-
+- [Spring Boot for Beginners](https://codingshuttle.com/spring-boot-handbook/spring-boot-tutorial-a-comprehensive-guide-for-beginners/)
+- [Introduction to Spring Boot](https://codingshuttle.com/spring-boot-handbook/introduction-to-spring-boot/)
+- [Why Spring Boot? (Challenges)](https://codingshuttle.com/spring-boot-handbook/challenges-of-spring-framework-the-need-of-spring-boot/)
 - [Spring Architecture](https://codingshuttle.com/spring-boot-handbook/spring-architecture/)
-
 - [Spring IOC Container](https://codingshuttle.com/spring-boot-handbook/spring-ioc-container/)
-
-- [Creating First Spring Boot Project and understanding the project structure](https://codingshuttle.com/spring-boot-handbook/creating-first-spring-boot-project-and-understanding-the-project-structure/)
-
-- [Spring Boot Application Properties](https://codingshuttle.com/spring-boot-handbook/spring-boot-application-properties/)
-
-- [Understanding Spring Beans](https://codingshuttle.com/spring-boot-handbook/understanding-spring-beans/)
-
-- [Dependency Injection](https://codingshuttle.com/spring-boot-handbook/dependency-injection/)
-
-- [Spring Context](https://codingshuttle.com/spring-boot-handbook/spring-context/)
-
-- [Spring Boot Annotations](https://codingshuttle.com/spring-boot-handbook/spring-boot-annotations/)
-
-- [Understanding Spring Boot Auto Configuration](https://codingshuttle.com/spring-boot-handbook/understanding-spring-boot-auto-configuration/)
-
-
+- [First Spring Boot Project](https://codingshuttle.com/spring-boot-handbook/creating-first-spring-boot-project-and-understanding-the-project-structure/)
+- [Application Properties](https://codingshuttle.com/spring-boot-handbook/spring-boot-application-properties/)
+- [Spring Beans & DI](https://codingshuttle.com/spring-boot-handbook/understanding-spring-beans/)
+- [Spring Annotations](https://codingshuttle.com/spring-boot-handbook/spring-boot-annotations/)
+- [Auto Configuration](https://codingshuttle.com/spring-boot-handbook/understanding-spring-boot-auto-configuration/)
 
 ## Spring MVC
 
