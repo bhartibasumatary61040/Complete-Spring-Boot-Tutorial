@@ -61,7 +61,7 @@ Complete Spring Boot guide from basic to advance
 
 - [Spring Security Basic Introduction](https://www.codingshuttle.com/spring-boot-handbook/spring-security-basic-introduction/)
 - [Cross-Site Request Forgery (CSRF)](https://www.codingshuttle.com/spring-boot-handbook/cross-site-request-forgery-csrf/)
-- [Cross-Site Scripting (https://www.codingshuttle.com/spring-boot-handbook/cross-site-scripting-xss/)
+- [Cross-Site Scripting](https://www.codingshuttle.com/spring-boot-handbook/cross-site-scripting-xss/)
 - [SQL Injection](https://www.codingshuttle.com/spring-boot-handbook/sql-injection/)
 - [Internal Working of Spring Security Basic](https://www.codingshuttle.com/spring-boot-handbook/internal-working-of-spring-security-basic/)
 - [Internal Working of Spring Security Advance](https://www.codingshuttle.com/spring-boot-handbook/internal-working-of-spring-security-advance/)
@@ -93,14 +93,14 @@ Complete Spring Boot guide from basic to advance
 - [Understanding JUnit and AssertJ](https://www.codingshuttle.com/spring-boot-handbook/understanding-j-unit-and-assert-j/)
 - [Unit Testing vs Integration Testing](https://codingshuttle.com/spring-boot-handbook/unit-testing-vs-integration-testing/)
 - [Unit Testing the Persistence Layer](https://codingshuttle.com/spring-boot-handbook/unit-testing-the-persistence-layer/)
-- [Setting Up TestContainer](https://codingshuttle.com/spring-boot-handbook/setting-up-testcontainer/)
+- [Setting Up TestContainer](https://www.codingshuttle.com/spring-boot-handbook/setting-up-test-container/)
 - [Understanding Mockito](https://codingshuttle.com/spring-boot-handbook/understanding-mockito/)
 - [Unit Testing the Service Layer](https://codingshuttle.com/spring-boot-handbook/unit-testing-the-service-layer/)
 - [Integration Testing the Presentation Layer](https://codingshuttle.com/spring-boot-handbook/integration-testing-the-presentation-layer/)
 - [JaCoCo Test Report Generation](https://codingshuttle.com/spring-boot-handbook/jacoco-test-report-generation/)
 
 
-## CI/CD
+## Spring Boot Deployment with CI/CD
 
 - [Introduction and Setup Production Database with RDS in AWS](https://codingshuttle.com/spring-boot-handbook/introduction-and-setup-production-database-with-rds-in-aws/)
 - [Spring Profiles](https://codingshuttle.com/spring-boot-handbook/spring-profiles/)
@@ -111,22 +111,25 @@ Complete Spring Boot guide from basic to advance
 
 ## Spring Boot AOP
 
-- AOP Basics
-- Pointcuts
-- Advices
+- [Introduction to Aspect-Oriented Programming](https://codingshuttle.com/spring-boot-handbook/introduction-to-aspect-oriented-programming/)
+- [Declaring Pointcuts in AOP](https://codingshuttle.com/spring-boot-handbook/declaring-pointcuts-in-aop/)
+- [Declaring Advice in AOP](https://codingshuttle.com/spring-boot-handbook/declaring-advice-in-aop/)
+- [Spring Proxy and Internal Working of AOP](https://codingshuttle.com/spring-boot-handbook/spring-proxy-and-internal-working-of-aop/)
+- [Real-world Use Cases of AOP](https://codingshuttle.com/spring-boot-handbook/real-world-use-cases-of-aop/)
 
----
 
-## Caching & Transactions
+## Spring Boot Caching and Concurrent Transaction management
 
-- Spring Cache
-- Redis
-- Transaction Isolation
-- Optimistic / Pessimistic Locking
+- [Introduction to Caching](https://codingshuttle.com/spring-boot-handbook/introduction-to-caching/)
+- [Spring Boot Default Caching](https://codingshuttle.com/spring-boot-handbook/spring-boot-default-caching/)
+- [Redis Cache in Spring Boot](https://codingshuttle.com/spring-boot-handbook/redis-cache-in-spring-boot/)
+- [Database Transactions and ACID Properties in RDBMS](https://codingshuttle.com/spring-boot-handbook/database-transactions-and-acid-properties-in-rdbms/)
+- [Concurrent Transaction Management and Transaction Isolation Levels](https://codingshuttle.com/spring-boot-handbook/concurrent-transaction-management-and-transaction-isolation-levels/)
+- [Transactional Annotation in Spring Boot](https://codingshuttle.com/spring-boot-handbook/transactional-annotation-in-spring-boot/)
+- [Optimistic and Pessimistic Transaction Locks in Spring Boot Data JPA](https://codingshuttle.com/spring-boot-handbook/optimistic-and-pessimistic-transaction-locks-in-spring-boot-data-jpa/)
 
----
 
-## Basic Microservices
+## Basic Microservice Architecture Concepts
 
 - Eureka
 - API Gateway
@@ -135,7 +138,7 @@ Complete Spring Boot guide from basic to advance
 
 ---
 
-## Advanced Microservices
+## Advanced Microservice Architecture Concepts
 
 - Config Server
 - Zipkin
@@ -153,7 +156,7 @@ Complete Spring Boot guide from basic to advance
 
 ---
 
-## Task Scheduling
+## Spring Boot Task Scheduling
 
 - @Scheduled
 - Cron Jobs
