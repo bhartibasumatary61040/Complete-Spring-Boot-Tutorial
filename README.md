@@ -131,23 +131,23 @@ Complete Spring Boot guide from basic to advance
 
 ## Basic Microservice Architecture Concepts
 
-- [Microservice: Introduction to the Microservice Architecture](https://codingshuttle.com/spring-boot-handbook/introduction-to-the-microservice-architecture/)
-- [Microservice: Setting Up the Inventory Management System](https://codingshuttle.com/spring-boot-handbook/setting-up-the-inventory-management-system/)
-- [Microservice: Service Registration and Service Discovery with Eureka](https://codingshuttle.com/spring-boot-handbook/service-registration-and-service-discovery-with-eureka/)
-- [Microservice: Spring Cloud API Gateway](https://codingshuttle.com/spring-boot-handbook/spring-cloud-api-gateway/)
-- [Microservice: OpenFeign Microservice Communication](https://codingshuttle.com/spring-boot-handbook/openfeign-microservice-communication/)
-- [Microservice: OpenFeign Microservice Communication – Advanced](https://codingshuttle.com/spring-boot-handbook/openfeign-microservice-communication-advanced/)
-- [Microservice: Circuit Breaker, Retry, and Rate Limiter with Resilience4j](https://codingshuttle.com/spring-boot-handbook/circuit-breaker-retry-and-rate-limiter-with-resilience4j/)
+- [Microservice: Introduction to the Microservice Architecture](https://www.codingshuttle.com/spring-boot-handbook/microservice-introduction-to-the-microservice-architecture/)
+- [Microservice: Setting Up the Inventory Management System](https://www.codingshuttle.com/spring-boot-handbook/microservice-setting-up-the-inventory-management-system/)
+- [Microservice: Service Registration and Service Discovery with Eureka](https://www.codingshuttle.com/spring-boot-handbook/microservice-service-registration-and-service-discovery-with-eureka/)
+- [Microservice: Spring Cloud API Gateway](https://www.codingshuttle.com/spring-boot-handbook/microservice-spring-cloud-api-gateway/)
+- [Microservice: OpenFeign Microservice Communication](https://www.codingshuttle.com/spring-boot-handbook/microservice-open-feign-microservice-communication/)
+- [Microservice: OpenFeign Microservice Communication – Advanced](https://www.codingshuttle.com/spring-boot-handbook/microservice-open-feign-microservice-communication-advanced/)
+- [Microservice: Circuit Breaker, Retry, and Rate Limiter with Resilience4j](https://www.codingshuttle.com/spring-boot-handbook/microservice-circuit-breaker-retry-and-rate-limiter-with-resilience4-j/)
 
 
 ## Advanced Microservice Architecture Concepts
 
-- [Microservice Advance: Introduction to the API Gateway Filters](https://codingshuttle.com/spring-boot-handbook/introduction-to-the-api-gateway-filters/)
-- [Microservice Advance: Authentication in the API Gateway using Custom Gateway Filters](https://codingshuttle.com/spring-boot-handbook/authentication-in-the-api-gateway-using-custom-gateway-filters/)
-- [Microservice Advance: Centralized Configuration Server using GitHub](https://codingshuttle.com/spring-boot-handbook/centralized-configuration-server-using-github/)
-- [Microservice Advance: Refresh Configuration without Restart using Centralized Configuration](https://codingshuttle.com/spring-boot-handbook/refresh-configuration-without-restart-using-centralized-configuration/)
-- [Microservice Advance: Distributed Tracing using Zipkin and Micrometer](https://codingshuttle.com/spring-boot-handbook/distributed-tracing-using-zipkin-and-micrometer/)
-- [Microservice Advance: Centralized Logging with the ELK Stack](https://codingshuttle.com/spring-boot-handbook/centralized-logging-with-the-elk-stack/)
+- [Microservice Advance: Introduction to the API Gateway Filters](https://www.codingshuttle.com/spring-boot-handbook/microservice-advance-introduction-to-the-api-gateway-filters/)
+- [Microservice Advance: Authentication in the API Gateway using Custom Gateway Filters](https://www.codingshuttle.com/spring-boot-handbook/microservice-advance-authentication-in-the-api-gateway-using-custom-gateway-filters/)
+- [Microservice Advance: Centralized Configuration Server using GitHub](https://www.codingshuttle.com/spring-boot-handbook/microservice-advance-centralized-configuration-server-using-git-hub/)
+- [Microservice Advance: Refresh Configuration without Restart using Centralized Configuration](https://www.codingshuttle.com/spring-boot-handbook/microservice-advance-refresh-configuration-without-restart-using-centralized-configuration/)
+- [Microservice Advance: Distributed Tracing using Zipkin and Micrometer](https://www.codingshuttle.com/spring-boot-handbook/microservice-advance-distributed-tracing-using-zipkin-and-micrometer/)
+- [Microservice Advance: Centralized Logging with the ELK Stack](https://www.codingshuttle.com/spring-boot-handbook/microservice-advance-centralized-logging-with-the-elk-stack/)
 
 
 ## Spring Boot Kafka
