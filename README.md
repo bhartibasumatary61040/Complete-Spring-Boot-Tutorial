@@ -13,7 +13,7 @@ Complete Spring Boot guide from basic to advance
 
 ## Introduction To Spring Boot
 
-- [Spring Boot Tutorial for Beginners](#spring-boot-tutorial-for-beginners)
+- [Spring Boot Tutorial for Beginners](https://codingshuttle.com/spring-boot-handbook/spring-boot-tutorial-a-comprehensive-guide-for-beginners/)
 - [Introduction To Spring Boot](#introduction-to-spring-boot)
 - [Challenges of Spring Framework](#challenges-of-spring-framework)
 - [Spring Architecture](#spring-architecture)
