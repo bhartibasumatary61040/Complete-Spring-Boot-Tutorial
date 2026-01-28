@@ -152,17 +152,17 @@ Complete Spring Boot guide from basic to advance
 
 ## Spring Boot Kafka
 
-- [Introduction to Apache Kafka](https://codingshuttle.com/spring-boot-handbook/introduction-to-apache-kafka/)
+- [Introduction to Apache Kafka](https://www.codingshuttle.com/spring-boot-handbook/introduction-to-kafka/)
 - [Kafka Architecture](https://codingshuttle.com/spring-boot-handbook/kafka-architecture/)
-- [Installing Kafka and Kafka Visualization Tool](https://codingshuttle.com/spring-boot-handbook/installing-kafka-and-kafka-visualization-tool/)
+- [Installing Kafka and Kafka Visualization Tool](https://www.codingshuttle.com/spring-boot-handbook/installing-kafka-and-kafka-visiualisation-tool/)
 - [Configuring Kafka with Spring Boot](https://codingshuttle.com/spring-boot-handbook/configuring-kafka-with-spring-boot/)
-- [Advanced Kafka Configuration with Spring Boot](https://codingshuttle.com/spring-boot-handbook/advanced-kafka-configuration-with-spring-boot/)
+- [Advanced Kafka Configuration with Spring Boot](https://www.codingshuttle.com/spring-boot-handbook/advance-kafka-configuration-with-spring-boot/)
 - [Kafka Schema Registry with Confluent](https://codingshuttle.com/spring-boot-handbook/kafka-schema-registry-with-confluent/)
 
 
 ## Spring Boot Task Scheduling
 
-- [Multithreading: Java Executor Framework](https://codingshuttle.com/spring-boot-handbook/multithreading-java-executor-framework/)
+- [Multithreading: Java Executor Framework](https://www.codingshuttle.com/spring-boot-handbook/multi-threading-java-executor-framework/)
 - [Task Scheduling in Spring Boot](https://codingshuttle.com/spring-boot-handbook/task-scheduling-in-spring-boot/)
 - [Asynchronous Task Scheduling in Spring Boot](https://codingshuttle.com/spring-boot-handbook/asynchronous-task-scheduling-in-spring-boot/)
 - [Tomcat Server Threading Model](https://codingshuttle.com/spring-boot-handbook/tomcat-server-threading-model/)
